@@ -4,4 +4,3 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 ## qw   qw eqw eqwe qwe
-##123321312
